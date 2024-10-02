@@ -46,4 +46,16 @@ h4{
 }
 #ingredients{
     background-color: white; border-bottom: #008080 1px solid;
+    padding-bottom: 20px;
+}
+li{
+    padding-top: 2px;
+    padding-bottom: 4px;
+}
+body{
+    width: 100%;
+}
+#pippo{
+position: relative;
+bottom: 15%;
 }
