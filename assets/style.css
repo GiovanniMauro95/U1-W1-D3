@@ -1,0 +1,49 @@
+.logo{
+    width: 150px; 
+    margin: 0 auto;
+}
+.container-logo{
+    width: 100%;
+    text-align: center;
+}
+.container-sub{
+    text-align: center;
+    background-color: #fff8e4; 
+    height: 40px;
+    border-top: #ffdf79 solid 1px;
+    color: #008080;
+    font-family: "Nunito";
+}
+main{
+    margin-inline: auto;
+    font-family: "Nunito";
+    max-width: 800px;
+}
+.title{
+    font-weight: bold;
+    font-family: "Nunito";
+}
+footer{
+    margin-inline: auto;
+    font-family: "Nunito";
+    text-align: left;
+    max-width: 800px;
+}
+#food-img{
+    border-radius: 25px;
+}
+figcaption{
+    text-align: center;
+    color: gray;
+}
+h4{
+    color: orangered;
+    background-color: white; border-left: yellow 1px solid;
+    padding-inline: 20px;
+}
+.list-title{
+    font-weight: bolder
+}
+#ingredients{
+    background-color: white; border-bottom: #008080 1px solid;
+}
